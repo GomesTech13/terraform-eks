@@ -20,7 +20,7 @@ variable "ubuntuami" {
   default = "ami-0b9064170e32bde34"
 }
 variable "redhatami" {
-  default = "ami-03d64741867e7bb94"
+  default = "ami-0ba62214afa52bec7"
 }
 variable "key_name" {
   default = "testkey"
